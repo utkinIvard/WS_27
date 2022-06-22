@@ -1,0 +1,11 @@
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\bin\Debug\Demoo.exe.config
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\bin\Debug\Demoo.exe
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\bin\Debug\Demoo.pdb
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\obj\Debug\Demoo.csproj.AssemblyReference.cache
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\obj\Debug\Demoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\obj\Debug\Demoo.Form1.resources
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\obj\Debug\Demoo.Properties.Resources.resources
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\obj\Debug\Demoo.csproj.GenerateResource.cache
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\obj\Debug\Demoo.csproj.CoreCompileInputs.cache
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\obj\Debug\Demoo.exe
+C:\Users\Ваня\Source\Repos\Demoo\Demoo\obj\Debug\Demoo.pdb
